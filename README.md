@@ -6,9 +6,9 @@ My Personal website, have a look and enjoy
 
 Many thanks to:
 
-<a href="https://github.com/mikefrancis/mikefrancis.github.io" target="_blank">Mike Francis</a>
-&
-<a href="https://chaseohlson.com/" target="_blank">Chase Olsen</a>
+[Mike Francis](https://github.com/mikefrancis/mikefrancis.github.io)
+and
+[Chase Olsen](https://chaseohlson.com/)
 
 For Inspiration
 
