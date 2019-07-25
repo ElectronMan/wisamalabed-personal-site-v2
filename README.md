@@ -27,5 +27,5 @@ For Inspiration
 * [ESLint documentation](https://eslint.org/docs/user-guide/configuring)
 
 ## License
-[MIT](https://github.com/ElectronMan/wisamalabed-personal-site-v2/blob/master/LICENSE.md)
+[MIT](https://github.com/ElectronMan/wisamalabed-personal-site-v2/blob/master/LICENSE)
 
