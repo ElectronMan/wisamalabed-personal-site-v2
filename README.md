@@ -1,4 +1,6 @@
-# Wisam
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0c6057a4-6080-484f-8cef-c5d98149ea88/deploy-status)](https://app.netlify.com/sites/wisamalabed/deploys)
+
+# Wisam Al Abed
 
 My Personal website, have a look and enjoy
 
