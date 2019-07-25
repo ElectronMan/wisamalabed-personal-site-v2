@@ -11,6 +11,8 @@ Many thanks to:
 [Mike Francis](https://github.com/mikefrancis/mikefrancis.github.io)
 and
 [Chase Olsen](https://chaseohlson.com/)
+and
+[Taylor Bryant](https://www.gatsbyjs.org/starters/Oddstronaut/gatsby-starter-tailwind/)
 
 For Inspiration
 
