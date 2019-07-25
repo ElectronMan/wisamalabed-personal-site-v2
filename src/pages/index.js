@@ -21,7 +21,7 @@ function IndexPage() {
             easing="ease-out"
             delay={2000}
             speed={400}
-            items={["Startup founder", "Problem solver", "Software eng", "Bug fixer", "Free diver", "Yoga practitioner", "Adaptive Ace", "Peacmaker", "Outcome owner"]}
+            items={["Startup founder", "Problem solver", "Software eng", "Bug fixer", "Free diver", "Yoga practitioner", "Adaptive Ace", "Peacemaker", "Outcome owner"]}
           />
         </h1>
 
