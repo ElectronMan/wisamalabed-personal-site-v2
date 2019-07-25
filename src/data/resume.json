@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "CTO",
+    "company": "Geometri Technologies",
+    "link": "http://geometri.tech",
+    "description": "Cofounded an AI and Blockchain Startup. Built and developed our web platform that uses machine learning to predict the digital maturity of companies",
+    "date": "Nov 2018 - Aug 2019"
+  },
+  {
+    "id": 2,
+    "title": "Business/Technical Consultant",
+    "company": "IBM MEA",
+    "link": "https://www.ibm.com/ae-en",
+    "description": "Joined IBM as part of Global Business Services for delivering consulting engagements.",
+    "date": "Oct 2016 - Nov 2018"
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Developer",
+    "company": "XYpper Technologies",
+    "link": "https://www.xypper.com",
+    "description": "Developed a website for connecting shippers to truckers to make transportation of goods more efficient and profitable.",
+    "date": "Jan 2015 - Feb 2016"
+  },
+  {
+    "id": 4,
+    "title": "Software Researcher",
+    "company": "McGill University",
+    "link": "https://cs.mcgill.ca",
+    "description": "Joined the software engineering lab. Focused on software reusability, modularity and model driven engineering",
+    "date": "Jan 2008 - Oct 2014"
+  }
+]

@@ -1,19 +1,30 @@
 {
   "name": "@oddstronaut/gatsby-starter-tailwind",
-  "description": "Gatsby starter styled with Tailwind",
-  "version": "3.0.23",
-  "author": "Taylor Bryant <taylor@bryant.io>",
+  "description": "Wisam Al Abed personal site v2",
+  "version": "1.0.0",
+  "author": "Wisam Al Abed <wisam.alabed@mail.mcgill.ca>",
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.19",
+    "@fortawesome/free-brands-svg-icons": "^5.9.0",
+    "@fortawesome/free-regular-svg-icons": "^5.9.0",
+    "@fortawesome/free-solid-svg-icons": "^5.9.0",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "babel-plugin-styled-components": "^1.10.6",
     "gatsby": "2.10.0",
     "gatsby-plugin-manifest": "2.2.0",
     "gatsby-plugin-postcss": "2.1.0",
     "gatsby-plugin-purgecss": "4.0.0",
     "gatsby-plugin-react-helmet": "3.1.0",
+    "gatsby-plugin-styled-components": "^3.1.2",
     "graphql": "14.3.1",
     "prop-types": "15.7.2",
     "react": "16.8.6",
     "react-dom": "16.8.6",
-    "react-helmet": "5.2.1"
+    "react-helmet": "5.2.1",
+    "react-redux": "^7.1.0",
+    "react-toggle": "^4.0.2",
+    "redux": "^4.0.4",
+    "styled-components": "^4.3.2"
   },
   "keywords": [
     "gatsby",
@@ -48,12 +59,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/oddstronaut/gatsby-starter-tailwind"
+    "url": "https://github.com/ElectronMan/wisam-alabed-v2"
   },
   "bugs": {
-    "url": "https://github.com/oddstronaut/gatsby-starter-tailwind/issues"
+    "url": "https://github.com/ElectronMan/wisam-alabed-v2/issues"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "private"
   }
 }

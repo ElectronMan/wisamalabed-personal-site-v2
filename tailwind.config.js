@@ -1,7 +1,14 @@
-// See https://next.tailwindcss.com/docs/configuration for details
+const defaultTheme = require('tailwindcss/defaultTheme')
 
 module.exports = {
-  theme: {},
-  variants: {},
-  plugins: []
+  theme: {
+    extend: {
+      fontFamily: {
+        sans: [
+          'Asap',
+          ...defaultTheme.fontFamily.sans,
+        ]
+      }
+    }
+  }
 };

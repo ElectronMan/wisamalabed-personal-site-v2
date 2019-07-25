@@ -2,7 +2,9 @@ import React from "react";
 
 import Layout from "../components/layout";
 import SEO from "../components/seo";
-import catAndHumanIllustration from "../images/cat-and-human-illustration.svg";
+import Ticker from '../components/Ticker';
+import socialIcons from '../data/socialIcons.json'
+import SocialIcon from '../components/SocialIcon'
 
 function IndexPage() {
   return (
@@ -12,27 +14,30 @@ function IndexPage() {
         keywords={[`gatsby`, `tailwind`, `react`, `tailwindcss`]}
       />
 
-      <div className="text-center">
-        <img
-          src={catAndHumanIllustration}
-          className="block mx-auto w-1/2"
-          alt="Cat and human sitting on a couch"
-        />
+      <div className="text-center py-12 px-4 min-h-48">
+        <h1 className="mb-0 text-2xl md:text-6xl leading-loose font-bold uppercase">
+          Hello World{" "}
+          <Ticker
+            easing="ease-out"
+            delay={2000}
+            speed={400}
+            items={["Startup founder", "Problem solver", "Software eng", "Bug fixer", "Free diver", "Yoga practitioner", "Adaptive Ace", "Peacmaker", "Outcome owner"]}
+          />
+        </h1>
 
-        <h2 className="bg-yellow-400 text-2xl font-bold inline-block my-8 p-3">
-          Hey there! Welcome to your first Gatsby site.
-        </h2>
-
-        <p className="leading-loose">
-          This is a barebones starter for Gatsby styled using{" "}
+        <div className="uppercase text-sm md:text-base font-medium mb-5 text-gray-500">
+          Toronto · Canada · (416) 276 4074 ·{" "}
           <a
-            href="https://tailwindcss.com/"
-            className="font-bold no-underline text-gray-900"
-          >
-            Tailwind
-          </a>
-          , a utility-first CSS framework.
-        </p>
+            className="text-orange-600 hover:text-orange-900 hover:underline"
+            href="mailto:wisam.alabed@mail.mcgill.ca"
+          >wisam.alabed@mail.mcgill.ca</a>
+        </div>
+        <div className="">
+          {socialIcons.map(icon => <SocialIcon className="inline-block h-12 w-12 text-center text-2xl leading-loose mr-1 lg:mr-4 hover:bg-orange-600 rounded-full cursor-pointer" key={icon.id} link={icon.link} name={icon.name} pack={icon.pack} title={icon.title} />
+            
+          )}
+          
+        </div>
       </div>
     </Layout>
   );

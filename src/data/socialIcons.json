@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "pack": "fab",
+    "name": "linkedin",
+    "title": "Linkedin Profile",
+    "link": "http://www.linkedin.com/in/wisamalabed"
+  },
+  {
+    "id": 2,
+    "pack": "fab",
+    "name": "github",
+    "title": "Github Profile",
+    "link": "https://github.com/ElectronMan"
+  },
+  {
+    "id": 3,
+    "pack": "fas",
+    "name": "user-circle",
+    "title": "Plum.io Profile",
+    "link": "https://secure.plum.io/p/ibUwIIGfcBZXbbeoxViLAA"
+  }
+]
