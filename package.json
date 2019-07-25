@@ -59,10 +59,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ElectronMan/wisam-alabed-v2"
+    "url": "https://github.com/ElectronMan/wisamalabed-personal-site-v2"
   },
   "bugs": {
-    "url": "https://github.com/ElectronMan/wisam-alabed-v2/issues"
+    "url": "https://github.com/ElectronMan/wisamalabed-personal-site-v2/issues"
   },
   "publishConfig": {
     "access": "private"
