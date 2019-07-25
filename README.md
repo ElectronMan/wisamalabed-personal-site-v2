@@ -1,14 +1,14 @@
 # Wisam
 
-My Personal website, feel free to take a look around
+My Personal website, have a look and enjoy
 
 ## Acknowledgments
 
 Many thanks to:
 
-<a href="https://github.com/mikefrancis/mikefrancis.github.io">Mike Francis</a>
+<a href="https://github.com/mikefrancis/mikefrancis.github.io" target="_blank">Mike Francis</a>
 &
-<a href="https://chaseohlson.com/">Chase Olsen</a>
+<a href="https://chaseohlson.com/" target="_blank">Chase Olsen</a>
 
 For Inspiration
 
