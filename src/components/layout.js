@@ -92,17 +92,22 @@ function Layout({ children, isDarkMode }) {
                 <a
                   href="https://www.gatsbyjs.org/"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <span className="rounded-full bg-purple-500 hover:bg-purple-900 uppercase px-2 py-1 text-xs font-bold mr-1 text-black hover:text-white">Gatsby</span>
                 </a>
                 <a 
                   href="https://tailwindcss.com" 
-                  target="_blank">
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                     <span className="rounded-full bg-teal-500 uppercase px-2 py-1 text-xs font-bold mr-1 text-black hover:text-white hover:bg-teal-900">Tailwindcss</span>                   
                 </a> 
                 <a 
                   href="https://icons8.com/ouch" 
-                  target="_blank">
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                     <span className="rounded-full bg-green-300 hover:bg-green-900 uppercase px-2 py-1 text-xs font-bold text-black hover:text-white">icons8</span>    
                 </a> 
               </p>
