@@ -14,7 +14,9 @@ import {
   faRss,
   faCheck,
   faFilePdf,
-  faUserCircle
+  faUserCircle,
+  faMoon,
+  faSun
 } from '@fortawesome/free-solid-svg-icons'
 import {
   faGithub,
@@ -54,7 +56,9 @@ library.add(
   faRss,
   faCheck,
   faFilePdf,
-  faUserCircle
+  faUserCircle,
+  faMoon,
+  faSun
 )
 
 function Layout({ children, isDarkMode }) {
@@ -109,7 +113,8 @@ function Layout({ children, isDarkMode }) {
                   rel="noopener noreferrer"
                 >
                     <span className="rounded-full bg-green-300 hover:bg-green-900 uppercase px-2 py-1 text-xs font-bold text-black hover:text-white">icons8</span>    
-                </a> 
+                </a>
+                
               </p>
             </div>
           </footer>
