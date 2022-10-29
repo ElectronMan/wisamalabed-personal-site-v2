@@ -2,7 +2,7 @@
 
 # Wisam Al Abed
 
-My Personal website, have a look and enjoy
+My Personal website, have a look
 
 ## Acknowledgments
 
